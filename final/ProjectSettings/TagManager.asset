@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Coin
   - trap
+  - blue
+  - yellow
+  - reset
+  - red
+  - green
+  - purple
   layers:
   - Default
   - TransparentFX
